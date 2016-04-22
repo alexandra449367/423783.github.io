@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zaciatok vypravy
+title: O našom tíme
 ---
 
 Tím pozostáva z dvoch ľudí, ktorých spoločným záujmom je horolezectvo. 
