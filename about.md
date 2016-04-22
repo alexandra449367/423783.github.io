@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 # O projekte
-Tento projekt je určený pre všetkých, ktorí holdujú niečomu zvláštnemu a nezvyčajnému. Rozpráva o expedícii, ktorá je viac záhadou ako exepídicou. Výprava, pri ktorej prišlo o život 9 mladých ľudí, je dodnes nevysvetlená. Záujem vzbudzuje u fanušíkov turistiky, horolezectva, bádateľov ale aj médií, napr. 
+Tento projekt je určený pre všetkých, ktorí holdujú niečomu zvláštnemu a nezvyčajnému. Záujem vzbudzuje u fanušíkov turistiky, horolezectva, bádateľov ale aj médií, napr. [idnes]. Rozpráva o expedícii, ktorá je viac záhadou ako exepídicou. Výprava, pri ktorej prišlo o život 9 mladých ľudí, je dodnes nevysvetlená. 
 
 Takže hurá čítať náš web, kde uvedieme príbeh expedície, ako to všetko začalo a pokračovalo. Pozrieme sa na jej členov, či už študenta a vedúceho Dyatla, alebo na turistov a záhadného Alexandra.
 
@@ -54,10 +54,4 @@ Takže hurá čítať náš web, kde uvedieme príbeh expedície, ako to všetko
 
 Při zveřejňování bychom se chtěli držet našeho seznamu s obsahem webu a postupným zveřejňováním bychom chtěli uživatele seznámit se všemi nám známými údaji Dyatlovy expedice, od informací o cíli výpravy, přes seznámení se členy výpravy až po jejich ztracení a následné pátrání po členech výpravy. Všichni uživatelé byly nalezení mrtví, ale nikdo neví proč. Existuje spoustu konspiračních teorií, se kterými chceme návštěvníky webu seznámit a řadu konspiračních teorií chceme obohatit o naše postřehy a názory.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself. - I don't want to. This place is useless. 
-
-### Contact me
-
-It is better to not contact me. Just for your safety. Safety first. 
+[idnes]: <http://zpravy.idnes.cz/v-rusku-zemrel-muz-jenz-jediny-prezil-tajemnou-vypravu-na-horu-mrtvych-1ao-/zahranicni.aspx?c=A130430_144028_zahranicni_ipl>
